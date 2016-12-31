@@ -26,7 +26,7 @@ define('DB_NAME', 'budgetpad_db');
 define('DB_USER', 'mariadb');
 
 /** MySQL database password */
-define('DB_PASSWORD', '6c6055e95f6a2a7b');
+define('DB_PASSWORD', 'f9615c74f536a651');
 
 /** MySQL hostname */
 define('DB_HOST', 'dokku-mariadb-budgetpad-db:3306');
