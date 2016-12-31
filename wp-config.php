@@ -20,16 +20,16 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'budgetpad_db');
+define('DB_NAME', 'salus_db');
 
 /** MySQL database username */
 define('DB_USER', 'mariadb');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'f9615c74f536a651');
+define('DB_PASSWORD', '85f2487f1933d86e');
 
 /** MySQL hostname */
-define('DB_HOST', 'dokku-mariadb-budgetpad-db:3306');
+define('DB_HOST', 'dokku-mariadb-salus-db:3306');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
