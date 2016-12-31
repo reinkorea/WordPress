@@ -25,7 +25,7 @@ define('DB_NAME', 'salus_db');
 /** MySQL database username */
 define('DB_USER', 'mariadb');
 
-/** MySQL database password */
+/** MySQL database password */ 
 define('DB_PASSWORD', '85f2487f1933d86e');
 
 /** MySQL hostname */
