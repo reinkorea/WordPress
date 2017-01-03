@@ -19,7 +19,7 @@
  */
 
 // ** MySQL settings - You can get this info from your web host ** //
-/** The name of the database for WordPress */
+/** The name of the database for WordPress! */
 define('DB_NAME', 'salus_db');
 
 /** MySQL database username */
@@ -28,7 +28,7 @@ define('DB_USER', 'mariadb');
 /** MySQL database password */ 
 define('DB_PASSWORD', '85f2487f1933d86e');
 
-/** MySQL hostname */
+/** MySQL hostname */ 
 define('DB_HOST', 'dokku-mariadb-salus-db:3306');
 
 /** Database Charset to use in creating database tables. */
