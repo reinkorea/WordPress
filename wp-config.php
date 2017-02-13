@@ -26,7 +26,7 @@ define('DB_NAME', 'salus_db');
 define('DB_USER', 'mariadb');
 
 /** MySQL database password */ 
-define('DB_PASSWORD', '85f2487f1933d86e');
+define('DB_PASSWORD', '3f0fe5d5fd57b6ef');
 
 /** MySQL hostname */ 
 define('DB_HOST', 'dokku-mariadb-salus-db:3306');
